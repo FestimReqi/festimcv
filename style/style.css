@@ -1,0 +1,211 @@
+
+
+.container .f-page{
+    height: 15rem;
+}
+
+/* .container .second{
+    background-color: red;
+} */
+
+.second ul li .phone{
+    text-decoration: none;
+    color: #000;
+}
+
+.second ul li .email{
+    text-decoration: none;
+    color: #000;
+}
+
+
+
+.second ul li .web_festim{
+    text-decoration: none;
+    color: #000;
+}
+
+.second .top-title .line-top{
+    height: 1px;
+    width: 100%;
+    background-color: #000;
+}
+
+.second .top-title .line-down{
+    height: 1px;
+    width: 100%;
+    background-color: #000;
+}
+.second .top-title p.h3{
+    font-weight: 900;
+    text-align: center;
+}  
+
+.second .brake-v{
+    width: 1px;
+    height: 15rem;
+    background-color: #000;
+    opacity: 1;
+}
+/*summary style*/
+
+.summary .top-title{
+    text-align: center;
+}
+.summary .top-title p.h3{
+    font-weight: 700;
+}
+.summary .top-title .line-top{
+    height: 1px;
+    width: 100%;
+    background-color: #000;
+}
+
+.summary .top-title .line-down{
+    height: 1px;
+    width: 100%;
+    background-color: #000;
+}
+
+.container .second{
+    height: 15rem;
+}
+
+.th-page .education p.h3{
+    text-align: center;
+    font-weight: 900;
+}
+
+.th-page .education .line-top{
+    height: 1px;
+    width: 100%;
+    background-color: #000;
+}
+.th-page .education .line-down{
+    height: 1px;
+    width: 100%;
+    background-color: #000;
+}
+
+.th-page .education .university p.h6{
+    font-weight: 700;
+}
+
+
+/* expreniense */
+
+.expreniense .top-title .line-top{
+    height: 1px;
+    width: 100%;
+    background-color: #000;
+}
+
+.expreniense .top-title .line-down{
+    height: 1px;
+    width: 100%;
+    background-color: #000;
+}
+
+.expreniense .top-title p.h3{
+    font-weight: 700;
+    text-align: center;
+}
+
+/* forth page */
+
+.social_media .top-title .line-up{
+    height: 1px;
+    width: 100%;
+    background-color: #000;
+}
+
+.social_media .top-title .line-down{
+    height: 1px;
+    width: 100%;
+    background-color: #000;
+}
+
+.social_media .top-title  h3{
+    font-weight: 700;
+    text-align: center;
+}
+
+.container .social_media p .instagram{
+    text-decoration: none;
+    color: #979797;
+    font-weight: 500;
+    transition: .3s ease-in-out;
+}
+
+.container .social_media p a:hover{
+    text-decoration: none;
+    color: #000;
+    font-weight: 500;
+}
+
+.container .social_media p .facebook{
+    text-decoration: none;
+    color: #979797;
+    font-weight: 500;
+    transition: .3s ease-in-out;
+}
+
+
+.container .social_media p .dribbble{
+    text-decoration: none;
+    color: #979797;
+    font-weight: 500;
+    transition: .3s ease-in-out;
+}
+
+
+.container .social_media p .behance{
+    text-decoration: none;
+    color: #979797;
+    font-weight: 500;
+    transition: .3s ease-in-out;
+}
+
+
+
+
+.container .social_media p .linkedin{
+    text-decoration: none;
+    color: #979797;
+    font-weight: 500;
+    transition: .3s ease-in-out;
+}
+
+/* forth page */
+
+
+
+.skills .top-title .line-up{
+    height: 1px;
+    width: 100%;
+    background-color: #000;
+}
+
+
+
+.skills .top-title .line-down{
+    height: 1px;
+    width: 100%;
+    background-color: #000;
+}
+
+.skills .top-title h3{
+    font-weight: 700;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
